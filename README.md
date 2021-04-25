@@ -5,3 +5,9 @@ Data Warehouse, sequencia dos processos:
 3 - Instalação e configuração MySql 
 4 - Importação de tabelas para o Power BI da Microsoft par análise de dados
 
+# Python
+
+# Mysql
+
+# Power BI Microsoft
+
